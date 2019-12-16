@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1053239420073",
+    "firebase_url": "https://social-login-1575659296043.firebaseio.com",
+    "project_id": "social-login-1575659296043",
+    "storage_bucket": "social-login-1575659296043.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1053239420073:android:36aa32980ded108abf75b8",
+        "android_client_info": {
+          "package_name": "com.vnc.fullpate"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1053239420073-vvh0i1j5t02uofch67aet9ab30eoeht7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.vnc.fullpate",
+            "certificate_hash": "b982734834ac50170fd373862054aa54bb846364"
+          }
+        },
+        {
+          "client_id": "1053239420073-nk09uv34636m8vu4do8m414p64ben65f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNHSVMTGviazfL7bX3xiLgGKbSNXUyj8A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1053239420073-nk09uv34636m8vu4do8m414p64ben65f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
